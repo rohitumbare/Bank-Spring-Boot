@@ -1,4 +1,4 @@
-# Bank-Spring-Boot
+# Bank-Spring-Boot 🏦💵💰
 
 🚀 Exciting Project - "BANK"! 🎉
 
